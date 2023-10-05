@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://media.tenor.com/ckDEELcpIxsAAAAd/kanye-sussy.gif"  />
+  <img height="400" src="https://media.tenor.com/ckDEELcpIxsAAAAd/kanye-sussy.gif"  />
 </div>
 
 ###
